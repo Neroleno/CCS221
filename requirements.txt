@@ -1,1 +1,6 @@
-
+streamlit
+numpy
+scikit-learn
+streamlit_webrtc
+matplotlib
+tensorflow
